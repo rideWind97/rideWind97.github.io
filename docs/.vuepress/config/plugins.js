@@ -29,10 +29,10 @@ module.exports = [
       needComments: true,
       // 其他的 Vssue 配置
       autoCreateIssue: true,
-      clientId: "adb9fb0ac1159e00ce7f",
-      clientSecret: "27da8dc85f808c2bd1b6e44da5ae69c4ddf17d8d",
+      clientId: "59b7e0d45b08690fd24c",
+      clientSecret: "abb609ea0bd7ed1e42268d72ca809bfa52c04d1f",
       owner: "eryajf",
-      repo: "vdoing-template",
+      repo: "rideWind97.github.io",
     },
   ],
   [
