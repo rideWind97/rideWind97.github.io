@@ -6,7 +6,7 @@ module.exports = {
   theme: 'vdoing', // 使用npm包主题
   title: "rideWind97.github.io",
   description: 'vdoing博客主题模板',
-  base: '/rideWind97.github.io/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
