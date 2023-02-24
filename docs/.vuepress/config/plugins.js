@@ -31,7 +31,7 @@ module.exports = [
       autoCreateIssue: true,
       clientId: "59b7e0d45b08690fd24c",
       clientSecret: "abb609ea0bd7ed1e42268d72ca809bfa52c04d1f",
-      owner: "eryajf",
+      owner: "rideWind97",
       repo: "rideWind97.github.io",
     },
   ],
