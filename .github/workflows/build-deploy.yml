@@ -12,6 +12,9 @@ env: # 设置环境变量
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.21.3]
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
